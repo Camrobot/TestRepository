@@ -35,11 +35,11 @@ public class AmministratorGui {
 
 		proxyAsincrona.setup();
 //		CentraleOperativaController coc = new CentraleOperativaController();
-//		System.out.println("[initialize] (1) DATI proxy: "+proxyAsincrona);
-//		System.out.println("[initialize] (2) DATI proxy: "+proxyAsincrona.toString());
-//		System.out.println("[initialize] (3) DATI proxy connessione: "+proxyAsincrona.getConnessione());
-//		System.out.println("[initialize] (4) DATI proxy: consumer Allarmi:"+proxyAsincrona.getConsumerAllarmi());
-//		System.out.println("[initialize] (4) DATI proxy: consumer Keep:"+proxyAsincrona.getConsumerKeep());
+		System.out.println("[initialize] (1) DATI proxy: "+proxyAsincrona);
+		System.out.println("[initialize] (2) DATI proxy: "+proxyAsincrona.toString());
+		System.out.println("[initialize] (3) DATI proxy connessione: "+proxyAsincrona.getConnessione());
+		System.out.println("[initialize] (4) DATI proxy: consumer Allarmi:"+proxyAsincrona.getConsumerAllarmi());
+		System.out.println("[initialize] (4) DATI proxy: consumer Keep:"+proxyAsincrona.getConsumerKeep());
 //		TimerProxy tp1 = new TimerProxy(0,proxyAsincrona.getConsumerAllarmi());
 //		TimerProxy tp2 = new TimerProxy(1,proxyAsincrona.getConsumerKeep());
 //		tp1.start();
