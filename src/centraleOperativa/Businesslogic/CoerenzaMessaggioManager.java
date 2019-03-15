@@ -9,8 +9,7 @@ public class CoerenzaMessaggioManager {
 	private String idR;
 
 	public String getIdR() {
-		return idR;
-		
+		return idR;		
 	}
 
 	public CoerenzaMessaggioManager(String idr) {
