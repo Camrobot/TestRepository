@@ -1,0 +1,17 @@
+package centraleOperativa.testBranch;
+
+public class classebranchGit2(){
+
+private String nome;
+
+public classebranch(){
+this.nome="";
+}
+
+
+public static void main(String[] args ){
+System.out.println("Nome classe "+ nome)
+}
+
+
+}
