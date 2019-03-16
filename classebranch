@@ -1,0 +1,13 @@
+package centraleOperativa.testBranch;
+
+public class classebranch(){
+
+private String nome;
+
+public classebranch(){
+this.nome="";
+}
+
+
+
+}
